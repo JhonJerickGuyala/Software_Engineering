@@ -55,7 +55,7 @@ body {
 }
 
 .linktoch{
-  @apply block px-2 py-1 text-bg  hover:text-secondary hover:scale-110 transition-transform transition-colors duration-300
+  @apply block px-1 py-1 text-bg text-xs md:text-sm lg:text-base xl:text-lg hover:text-secondary hover:scale-110 transition-transform transition-colors duration-300
 }
 
 .headerlogo{
