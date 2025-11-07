@@ -415,9 +415,6 @@
   .block {
     display: block;
   }
-  .contents {
-    display: contents;
-  }
   .flex {
     display: flex;
   }
@@ -3677,7 +3674,7 @@ body {
     }
   }
 }
-.div-img {
+.div-imgs {
   margin-block: calc(var(--spacing) * 6);
   display: flex;
   justify-content: center;
