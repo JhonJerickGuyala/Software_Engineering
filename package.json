@@ -20,6 +20,6 @@
   "homepage": "https://github.com/JhonJerickGuyala/Software_Engineering#readme",
   "dependencies": {
     "@tailwindcss/cli": "^4.1.15",
-    "tailwindcss": "^4.1.15"
+    "tailwindcss": "^4.1.17"
   }
 }
