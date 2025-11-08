@@ -344,7 +344,7 @@ body {
   @apply flex items-center justify-center lg:justify-end gap-3 mt-2;
 }
 
-.tr-2 {
+/* .tr-2 {
   @apply  border border-amber-200;
 }
 
@@ -354,7 +354,7 @@ body {
 
 .td-text {
   @apply px-4 py-3 border-b border-amber-200 text-justify;
-}
+} */
 
 /* chapter 8 */
 .body {
