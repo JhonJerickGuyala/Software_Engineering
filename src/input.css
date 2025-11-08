@@ -438,7 +438,7 @@ body {
   @apply text-xl font-bold mb-4;
 }
 
-.tr-2 {
+.tr-2s {
   @apply bg-gradient-to-r from-amber-50 via-amber-100 to-amber-50 
          hover:from-amber-100 hover:via-amber-200 hover:to-amber-100
          hover:shadow-[0_0_15px_rgba(217,119,6,0.4)]
@@ -446,12 +446,12 @@ body {
          transition-all duration-500 ease-out border-b border-amber-300;
 }
 
-.td-num {
+.td-nums {
   @apply font-semibold text-amber-950 py-3 px-4 align-top border-r border-amber-400
          w-1/4 text-sm tracking-wider uppercase transition-all duration-300 ease-in-out;
 }
 
-.td-text {
+.td-texts {
   @apply text-amber-900 py-3 px-4 leading-relaxed text-justify text-[13px] lg:text-[15px]
          transition-colors duration-300 ease-in-out;
 }
